@@ -1,0 +1,2650 @@
+{
+  "project": "无常出差记",
+  "episode": "EP01 出差第一天",
+  "source_script_version": "v0.4",
+  "storyboard_version": "v0.4-r1",
+  "source_sha256": "027ef0ee1b278e3a56f843673fa985ade6d00f418f594617cb4e39203383dbff",
+  "status": "文字分镜提案待审核",
+  "aspect_ratio": "16:9",
+  "style": "写实韩剧",
+  "cuihe_costume_policy": "suit",
+  "total_duration_seconds": 353,
+  "shots": [
+    {
+      "id": "EP01-V04-S01-001",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 0,
+      "framing": "大全景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "雨后街道远景，两位女主并肩位于中景起步位置，湿路反光，右侧长椅轮廓可见。",
+      "dialogue": "",
+      "sound": "雨后滴水、远处车流；音乐轻巧神秘。",
+      "action": "姐妹缓慢向前走两步，镜头固定。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：大全景。静态首帧：雨后街道远景，两位女主并肩位于中景起步位置，湿路反光，右侧长椅轮廓可见。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。姐妹缓慢向前走两步，镜头固定。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-002",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 4,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞看向镜头方向，神态沉静，黑发和白色衣领清晰。",
+      "dialogue": "白辞：我是白辞。",
+      "sound": "环境声压低。",
+      "action": "白辞轻声自我介绍，保持自然微表情。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞看向镜头方向，神态沉静，黑发和白色衣领清晰。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞轻声自我介绍，保持自然微表情。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-003",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 7,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "同侧机位切黑棠近景，黑白领口与暗红挑染清晰，眼神直率。",
+      "dialogue": "黑棠：我是黑棠。",
+      "sound": "承接同一段环境声。",
+      "action": "黑棠自然完成自我介绍。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：同侧机位切黑棠近景，黑白领口与暗红挑染清晰，眼神直率。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠自然完成自我介绍。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-004",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 12,
+      "timeline_start_seconds": 10,
+      "framing": "双人中景",
+      "camera": "缓慢跟拍",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "白辞左、黑棠右并肩，二人步伐一致，街道纵深清楚。",
+      "dialogue": "两人：我们是新任黑白无常，受邀到韩国地府进行为期三个月的交流……",
+      "sound": "共同开场白；轻巧配乐。",
+      "action": "姐妹并肩缓步前行，镜头等速后退。",
+      "overlay": "建议拆成两个即梦片段后衔接；不要加速说台词。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人中景。静态首帧：白辞左、黑棠右并肩，二人步伐一致，街道纵深清楚。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。姐妹并肩缓步前行，镜头等速后退。 运镜：缓慢跟拍。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-005",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 22,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠侧过脸看前方街巷，期待中带一点自信。",
+      "dialogue": "黑棠：这是我们在首尔第一次出外勤。",
+      "sound": "脚步声。",
+      "action": "黑棠停步看向前方。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠侧过脸看前方街巷，期待中带一点自信。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠停步看向前方。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-006",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 27,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞站定，目光朝前，准备开始外勤。",
+      "dialogue": "白辞：开始吧。",
+      "sound": "环境声，音乐轻收。",
+      "action": "白辞平静说完，准备抬手。",
+      "overlay": "v0.4 新增台词。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞站定，目光朝前，准备开始外勤。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞平静说完，准备抬手。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-007",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 30,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞抬起的手掌上方，一只独立小银色招魂铃刚悬起，袖口和手指结构清楚。",
+      "dialogue": "",
+      "sound": "清越单次铃声。",
+      "action": "招魂铃从手心上方缓慢升起，手掌保持稳定。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：手部特写。静态首帧：白辞抬起的手掌上方，一只独立小银色招魂铃刚悬起，袖口和手指结构清楚。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。招魂铃从手心上方缓慢升起，手掌保持稳定。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-008",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 34,
+      "framing": "街巷全景",
+      "camera": "缓慢横移",
+      "characters": [
+        "大叔"
+      ],
+      "costume_note": "大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "银白色细光纹沿街巷通向右侧长椅；大叔坐在长椅上，低头持手机。",
+      "dialogue": "",
+      "sound": "铃声延伸，保留环境声。",
+      "action": "一缕银白光纹沿地面向长椅移动，其他元素稳定。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：街巷全景。静态首帧：银白色细光纹沿街巷通向右侧长椅；大叔坐在长椅上，低头持手机。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。一缕银白光纹沿地面向长椅移动，其他元素稳定。 运镜：缓慢横移。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求；待补：大叔定妆图",
+      "reference_images": [],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-009",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 38,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "大叔"
+      ],
+      "costume_note": "大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "大叔坐在长椅同一位置，手机在手，脸朝铃声方向微偏。",
+      "dialogue": "",
+      "sound": "铃声渐弱。",
+      "action": "大叔听见铃声，缓缓抬头。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中近景。静态首帧：大叔坐在长椅同一位置，手机在手，脸朝铃声方向微偏。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。大叔听见铃声，缓缓抬头。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求；待补：大叔定妆图",
+      "reference_images": [],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-010",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 41,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞看向画面右侧长椅，目光确认铃声找到的亡魂。",
+      "dialogue": "",
+      "sound": "铃声尾音。",
+      "action": "白辞将视线落向长椅方向。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞看向画面右侧长椅，目光确认铃声找到的亡魂。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞将视线落向长椅方向。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-011",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 44,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠手掌上方悬浮黑色令牌，边缘暗金光亮起；表面留作叠字的平整区域。",
+      "dialogue": "",
+      "sound": "低沉法器提示音。",
+      "action": "令牌表面的暗金光依次亮起，令牌不变形。",
+      "overlay": "后期叠加姓名、年龄、职业、死亡原因字段；具体值原剧本未给出，不编造。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：手部特写。静态首帧：黑棠手掌上方悬浮黑色令牌，边缘暗金光亮起；表面留作叠字的平整区域。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。令牌表面的暗金光依次亮起，令牌不变形。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-012",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 48,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠视线从令牌上移向右侧的大叔，表情认真。",
+      "dialogue": "",
+      "sound": "法器声收束。",
+      "action": "黑棠核对令牌后抬眼看向大叔，不说话。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠视线从令牌上移向右侧的大叔，表情认真。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠核对令牌后抬眼看向大叔，不说话。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-013",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 51,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞看向黑棠，神态信任。",
+      "dialogue": "",
+      "sound": "短暂停顿。",
+      "action": "白辞轻轻点头一次。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞看向黑棠，神态信任。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞轻轻点头一次。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-014",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 53,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠",
+        "大叔"
+      ],
+      "costume_note": "黑棠-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "黑棠已收起令牌，站在距长椅两步的位置，右侧大叔仍坐着；腰间令牌回到原位置。",
+      "dialogue": "",
+      "sound": "脚步声。",
+      "action": "黑棠走到长椅前停下。",
+      "overlay": "令牌收起用剪辑省略，不要求同段完成消失、行走、说话。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中景。静态首帧：黑棠已收起令牌，站在距长椅两步的位置，右侧大叔仍坐着；腰间令牌回到原位置。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠走到长椅前停下。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-015",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 57,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "长椅方向的过肩视角，黑棠下颌略抬，自信开口。",
+      "dialogue": "黑棠（韩语）：가자.（走吧。）",
+      "sound": "韩语原声；括号中文仅释义。",
+      "action": "黑棠向大叔说出简短邀请。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：长椅方向的过肩视角，黑棠下颌略抬，自信开口。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠向大叔说出简短邀请。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-016",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 60,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "大叔"
+      ],
+      "costume_note": "大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "大叔坐在长椅，手机握在身前，目光短暂投向黑棠。",
+      "dialogue": "",
+      "sound": "配乐短暂停顿，保留手机轻触声。",
+      "action": "大叔看她一眼后低头看手机。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中近景。静态首帧：大叔坐在长椅，手机握在身前，目光短暂投向黑棠。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。大叔看她一眼后低头看手机。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求；待补：大叔定妆图",
+      "reference_images": [],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-017",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 63,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠眉头略抬，语气比上一镜急，背景仍是同一街道。",
+      "dialogue": "黑棠（韩语）：가자!",
+      "sound": "第二次呼唤略重。",
+      "action": "黑棠稍提高音量重复呼唤。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠眉头略抬，语气比上一镜急，背景仍是同一街道。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠稍提高音量重复呼唤。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-018",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 66,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "大叔"
+      ],
+      "costume_note": "大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "大叔保持坐姿，低头看手机，未准备起身。",
+      "dialogue": "",
+      "sound": "尴尬停顿。",
+      "action": "大叔仅轻触手机，始终坐着。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中景。静态首帧：大叔保持坐姿，低头看手机，未准备起身。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。大叔仅轻触手机，始终坐着。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求；待补：大叔定妆图",
+      "reference_images": [],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-019",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 68,
+      "framing": "双人中景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "白辞左、黑棠右，黑棠转头求证，白辞目光仍朝长椅。",
+      "dialogue": "黑棠：姐，应该不会找错吧？\n白辞：他能听见铃声。",
+      "sound": "环境声。",
+      "action": "黑棠转头看白辞，白辞保持镇定回应。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人中景。静态首帧：白辞左、黑棠右，黑棠转头求证，白辞目光仍朝长椅。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠转头看白辞，白辞保持镇定回应。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-020",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 73,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-A",
+      "composition": "右后方街角阴影中，崔赫穿整套现代黑衣、戴棒球帽，面部半明半暗。",
+      "dialogue": "",
+      "sound": "皮靴脚步声。",
+      "action": "崔赫从阴影中向前走一步。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。\n景别：中景。静态首帧：右后方街角阴影中，崔赫穿整套现代黑衣、戴棒球帽，面部半明半暗。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫从阴影中向前走一步。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-021",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 77,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-A",
+      "composition": "崔赫棒球帽下表情冷淡，视线看向黑棠所在方向。",
+      "dialogue": "崔赫：没用敬语。",
+      "sound": "配乐轻轻回入。",
+      "action": "崔赫平静说话，头部基本稳定。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。\n景别：近景。静态首帧：崔赫棒球帽下表情冷淡，视线看向黑棠所在方向。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫平静说话，头部基本稳定。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-022",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 80,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠转眼看向刚从街角出现的崔赫，微微惊讶。",
+      "dialogue": "黑棠：……你什么时候到的？",
+      "sound": "短暂反应停顿。",
+      "action": "黑棠侧过目光，向崔赫发问。",
+      "overlay": "v0.4 新增到场问答。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠转眼看向刚从街角出现的崔赫，微微惊讶。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠侧过目光，向崔赫发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-023",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 83,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-A",
+      "composition": "崔赫站在街角灯光边缘，鸭舌帽下神情冷淡。",
+      "dialogue": "崔赫：刚来。",
+      "sound": "简短回应。",
+      "action": "崔赫平静回答。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。\n景别：近景。静态首帧：崔赫站在街角灯光边缘，鸭舌帽下神情冷淡。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫平静回答。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-024",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 85,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠微微睁眼，疑惑又不可置信。",
+      "dialogue": "黑棠：……鬼也讲敬语？",
+      "sound": "轻喜剧停顿。",
+      "action": "黑棠眉梢抬起，疑惑发问。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠微微睁眼，疑惑又不可置信。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠眉梢抬起，疑惑发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-025",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 88,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-A",
+      "composition": "崔赫保持原站位和冷淡表情。",
+      "dialogue": "崔赫：入乡随俗。",
+      "sound": "简短干净的对白。",
+      "action": "崔赫平静回应。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。\n景别：近景。静态首帧：崔赫保持原站位和冷淡表情。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫平静回应。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-026",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 91,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠",
+        "大叔"
+      ],
+      "costume_note": "黑棠-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "黑棠面对长椅站直，神情刻意郑重，大叔仍坐着。",
+      "dialogue": "黑棠（韩语）：안녕하세요!（您好！）",
+      "sound": "深吸气后郑重问候。",
+      "action": "黑棠向大叔郑重鞠躬一次。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中景。静态首帧：黑棠面对长椅站直，神情刻意郑重，大叔仍坐着。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠向大叔郑重鞠躬一次。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-027",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 96,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "大叔"
+      ],
+      "costume_note": "大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "大叔已抬头，表情礼貌，双脚仍在原位。",
+      "dialogue": "大叔（韩语）：안녕하세요.（您好。）",
+      "sound": "礼貌而自然。",
+      "action": "大叔点头回应，但保持坐姿。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中近景。静态首帧：大叔已抬头，表情礼貌，双脚仍在原位。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。大叔点头回应，但保持坐姿。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求；待补：大叔定妆图",
+      "reference_images": [],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-028",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 100,
+      "framing": "双人中景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠",
+        "大叔"
+      ],
+      "costume_note": "黑棠-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "黑棠站着等待，大叔仍稳坐长椅；构图留出尴尬距离。",
+      "dialogue": "黑棠：呃……？",
+      "sound": "留一拍安静，不加对白。",
+      "action": "黑棠等待片刻，表情从期待变为迟疑。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：双人中景。静态首帧：黑棠站着等待，大叔仍稳坐长椅；构图留出尴尬距离。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠等待片刻，表情从期待变为迟疑。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-029",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 103,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞望向妹妹，带一点关切和无奈。",
+      "dialogue": "白辞：你还会什么？",
+      "sound": "轻声问话。",
+      "action": "白辞微微侧头问黑棠。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞望向妹妹，带一点关切和无奈。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞微微侧头问黑棠。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-030",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 106,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠移开目光，局促地抿唇，保持同一发型与挑染。",
+      "dialogue": "黑棠：……감사합니다。（谢谢。）",
+      "sound": "韩语原声；中文为释义。",
+      "action": "黑棠迟疑地低声回答。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠移开目光，局促地抿唇，保持同一发型与挑染。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠迟疑地低声回答。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-031",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 110,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫",
+        "大叔"
+      ],
+      "costume_note": "崔赫-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫站在长椅一侧，姿态克制，大叔抬头认真听他。",
+      "dialogue": "〔原剧本未提供逐字对白：崔赫用礼貌韩语说明来意；此处待配音稿补充，不擅自编词。〕",
+      "sound": "礼貌韩语说明，正式录音前需补齐台词。",
+      "action": "崔赫礼貌地向大叔解释，大叔专注听。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：中景。静态首帧：崔赫站在长椅一侧，姿态克制，大叔抬头认真听他。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫礼貌地向大叔解释，大叔专注听。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-032",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 115,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-A",
+      "composition": "崔赫手持展开的阴籍，纸页信息区清晰平整，黑皮夹克袖口可见。",
+      "dialogue": "",
+      "sound": "翻页声。",
+      "action": "崔赫手指沿阴籍上的记录核验。",
+      "overlay": "姓名和任务编号后期叠加；原文无具体值。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。\n景别：手部特写。静态首帧：崔赫手持展开的阴籍，纸页信息区清晰平整，黑皮夹克袖口可见。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫手指沿阴籍上的记录核验。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-033",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 119,
+      "framing": "全景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫",
+        "大叔"
+      ],
+      "costume_note": "崔赫-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "两人在长椅旁站定，街巷深处有未完全开启的阴路光口；现代街景保持真实。",
+      "dialogue": "",
+      "sound": "低频空间声，克制特效。",
+      "action": "阴路光口在两人前方缓缓展开。",
+      "overlay": "大叔起身用前后镜头剪辑衔接，不把起身、开门、离开塞进同一动作。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：全景。静态首帧：两人在长椅旁站定，街巷深处有未完全开启的阴路光口；现代街景保持真实。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。阴路光口在两人前方缓缓展开。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-034",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 123,
+      "framing": "背面中远景",
+      "camera": "缓慢跟拍",
+      "characters": [
+        "崔赫",
+        "大叔"
+      ],
+      "costume_note": "崔赫-A、大叔（待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫与大叔并肩朝阴路方向背对镜头，服装保持连续。",
+      "dialogue": "",
+      "sound": "渐远脚步声。",
+      "action": "崔赫带大叔向阴路内走去。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：大叔定妆图\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的崔赫定妆图为身份依据；黑色短发、黑色棒球帽、黑皮夹克、黑色内搭、工装裤、厚底靴，保留银色耳饰、项链与手腕配饰；本镜沿用此造型，不使用传统笠帽或珠链。；配角外貌提案，尚未定妆确认：一位约六十岁的韩国男性亡魂，短灰黑发、深灰便装夹克、深色长裤、普通皮鞋，持手机；保持自然真人质感，不血腥、不做恐怖面容。同一演员外观贯穿第一场。\n景别：背面中远景。静态首帧：崔赫与大叔并肩朝阴路方向背对镜头，服装保持连续。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫带大叔向阴路内走去。 运镜：缓慢跟拍。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：大叔定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "大叔定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S01-035",
+      "source_script_version": "v0.4",
+      "scene": 1,
+      "source_scene": 1,
+      "scene_title": "首尔街头·夜｜现在",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 127,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠望着画面右后方两人的去向，嘴角轻落，神情懊恼。",
+      "dialogue": "黑棠（小声）：……早知道多学两句了。",
+      "sound": "配乐轻收，尾部留定格。",
+      "action": "黑棠小声自语后保持表情；末尾定格由剪辑完成。",
+      "overlay": "剪辑定格后切倒叙；不在图中写时间文字。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：同一条雨后首尔街道，冷蓝夜色、柔和暖色路灯、湿润路面倒影；同一张长椅在画面右侧，街角在右后方。姐妹同框时白辞在画面左侧、黑棠在右侧。无可读店招。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠望着画面右后方两人的去向，嘴角轻落，神情懊恼。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠小声自语后保持表情；末尾定格由剪辑完成。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-001",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 132,
+      "framing": "全景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "两只打开的行李箱摊在地上；白辞左侧叠衣，黑棠右侧盘腿坐着，怀里抱韩语书。",
+      "dialogue": "",
+      "sound": "室内安静，柔和生活化配乐。",
+      "action": "白辞慢慢叠一件衣服，黑棠坐着看书。",
+      "overlay": "三天前：后期转场叠字；书名《三天学会韩语》也后期叠加。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：全景。静态首帧：两只打开的行李箱摊在地上；白辞左侧叠衣，黑棠右侧盘腿坐着，怀里抱韩语书。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞慢慢叠一件衣服，黑棠坐着看书。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-002",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 6,
+      "timeline_start_seconds": 136,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠盘腿坐在右侧行李箱旁，抱着韩语书，抬头好奇地问姐姐。",
+      "dialogue": "黑棠：姐，你说为什么派我俩去韩国出差呀。",
+      "sound": "书页轻响。",
+      "action": "黑棠从书上抬眼，向白辞发问。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：黑棠盘腿坐在右侧行李箱旁，抱着韩语书，抬头好奇地问姐姐。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠从书上抬眼，向白辞发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-003",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 7,
+      "timeline_start_seconds": 142,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞手里拿着叠好的衣服，语气平静又略带一本正经的玩笑感。",
+      "dialogue": "白辞：可能是因为我们死的时候很年轻，干劲十足？",
+      "sound": "语气自然。",
+      "action": "白辞抬眼，平静地给出带问号的回答。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞手里拿着叠好的衣服，语气平静又略带一本正经的玩笑感。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞抬眼，平静地给出带问号的回答。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-004",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 149,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠抱着韩语书，神情停住，给姐姐的回答留出无言反应。",
+      "dialogue": "黑棠：。。。。。。。",
+      "sound": "留一拍无语的安静，不朗读标点。",
+      "action": "黑棠静默看着白辞，轻微停顿。",
+      "overlay": "原文“。。。。。。。”完整保留，按无声反应拍处理，不读成台词，不擅自补词。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠抱着韩语书，神情停住，给姐姐的回答留出无言反应。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠静默看着白辞，轻微停顿。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-005",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 152,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠望向姐姐，担心地皱眉。",
+      "dialogue": "黑棠：那到了那边听不懂怎么办？",
+      "sound": "轻微衣料声。",
+      "action": "黑棠微微前倾发问。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：黑棠望向姐姐，担心地皱眉。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠微微前倾发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-006",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 7,
+      "timeline_start_seconds": 157,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞把叠好的衣服放在箱边，神情安定。",
+      "dialogue": "白辞：没关系。他们那边经常来国内交流，会中文。",
+      "sound": "语速自然，不赶台词。",
+      "action": "白辞从容安慰妹妹，手部保持简单。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：中近景。静态首帧：白辞把叠好的衣服放在箱边，神情安定。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞从容安慰妹妹，手部保持简单。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-007",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 164,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠眼睛亮起。",
+      "dialogue": "黑棠：真的？",
+      "sound": "配乐略轻快。",
+      "action": "黑棠期待地抬眼。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠眼睛亮起。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠期待地抬眼。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-008",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 166,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞看着妹妹，嘴角轻松。",
+      "dialogue": "白辞：嗯。",
+      "sound": "短促回应。",
+      "action": "白辞轻点头。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞看着妹妹，嘴角轻松。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞轻点头。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-009",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 168,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠举着合上的韩语书，身后有柔软坐垫，行李箱在身前。",
+      "dialogue": "",
+      "sound": "书落坐垫的轻响。",
+      "action": "黑棠把书向身后坐垫一扔。",
+      "overlay": "固定扔书方向；不同时要求拿糖。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中景。静态首帧：黑棠举着合上的韩语书，身后有柔软坐垫，行李箱在身前。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠把书向身后坐垫一扔。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-010",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 171,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "打开的行李箱内有衣物，黑棠手里是一把无品牌包装糖果。",
+      "dialogue": "",
+      "sound": "糖纸窸窣。",
+      "action": "黑棠把一把糖放进行李箱。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：手部特写。静态首帧：打开的行李箱内有衣物，黑棠手里是一把无品牌包装糖果。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠把一把糖放进行李箱。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S02-011",
+      "source_script_version": "v0.4",
+      "scene": 2,
+      "source_scene": 2,
+      "scene_title": "中国地府·姐妹住处｜三天前",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 175,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠轻松坐在箱前，继续将注意力放回收拾行李。",
+      "dialogue": "黑棠：那我先不管了。",
+      "sound": "生活化配乐收尾。",
+      "action": "黑棠轻松说完，低头看向行李箱。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：姐妹共同住处，温暖柔光、木质地面、柔和米色墙面；两只打开的行李箱保持位置不变，白辞在画面左侧叠衣服，黑棠在右侧地面坐垫上。生活化，不额外增添鬼怪。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：黑棠轻松坐在箱前，继续将注意力放回收拾行李。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠轻松说完，低头看向行李箱。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-001",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 179,
+      "framing": "大全景",
+      "camera": "缓慢推进",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "冷白薄雾中的关口，姐妹拖着同款行李箱处于左侧，双语牌匾位置留白。",
+      "dialogue": "",
+      "sound": "风声、箱轮声。",
+      "action": "镜头缓慢靠近关口，薄雾轻轻流动。",
+      "overlay": "两侧中韩牌匾文字后期叠加，具体名称待定。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：大全景。静态首帧：冷白薄雾中的关口，姐妹拖着同款行李箱处于左侧，双语牌匾位置留白。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。镜头缓慢靠近关口，薄雾轻轻流动。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-002",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 183,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞手持通关文牒，向右前方递出，旗袍袖口和银饰保持一致。",
+      "dialogue": "",
+      "sound": "纸张声。",
+      "action": "白辞把通关文牒递向画面右侧。",
+      "overlay": "文牒文字后期叠加；不新增具名边境工作人员。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：手部特写。静态首帧：白辞手持通关文牒，向右前方递出，旗袍袖口和银饰保持一致。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞把通关文牒递向画面右侧。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-003",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 186,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠握着行李箱拉杆，口中练习，眼神专注。",
+      "dialogue": "黑棠（低声练习，原文动作指定）：안녕하세요",
+      "sound": "箱轮停下，低声练习。",
+      "action": "黑棠小声练习一句韩语。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：黑棠握着行李箱拉杆，口中练习，眼神专注。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠小声练习一句韩语。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-004",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 189,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫穿待确认的现代西装B套，站在右侧薄雾中，正面轮廓清楚。",
+      "dialogue": "",
+      "sound": "低声风声。",
+      "action": "雾气缓慢掠过，崔赫站定不动。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：中景。静态首帧：崔赫穿待确认的现代西装B套，站在右侧薄雾中，正面轮廓清楚。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。雾气缓慢掠过，崔赫站定不动。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-005",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 192,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠上前停在崔赫面前，抬头热情招呼。",
+      "dialogue": "黑棠：안녕하세요！",
+      "sound": "声音明亮。",
+      "action": "黑棠向前一步停下，主动问候。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：中近景。静态首帧：黑棠上前停在崔赫面前，抬头热情招呼。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠向前一步停下，主动问候。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-006",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 195,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫穿待确认的现代西装B套，崔赫看着黑棠，神情平淡。",
+      "dialogue": "",
+      "sound": "严格留约两秒反应停顿。",
+      "action": "崔赫安静看黑棠两秒。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：近景。静态首帧：崔赫穿待确认的现代西装B套，崔赫看着黑棠，神情平淡。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫安静看黑棠两秒。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-007",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 197,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫穿待确认的现代西装B套，崔赫微侧身，给姐妹让出向关内的方向。",
+      "dialogue": "崔赫（字正腔圆的中文）：……请跟我来。",
+      "sound": "中文清晰，克制。",
+      "action": "崔赫平静说完后轻侧身。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：近景。静态首帧：崔赫穿待确认的现代西装B套，崔赫微侧身，给姐妹让出向关内的方向。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫平静说完后轻侧身。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-008",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 200,
+      "framing": "背面中景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫穿待确认的现代西装B套，",
+      "dialogue": "",
+      "sound": "皮靴脚步声。",
+      "action": "崔赫转身向关内走去。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：背面中景。静态首帧：崔赫穿待确认的现代西装B套，\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫转身向关内走去。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-009",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 203,
+      "framing": "双人近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "白辞左、黑棠右，黑棠向姐姐耳边微倾，行李拉杆在画面下缘。",
+      "dialogue": "黑棠（凑到白辞耳边）：他中文比我韩语好。\n白辞：嗯。",
+      "sound": "耳语和简短回应。",
+      "action": "黑棠靠近白辞轻声说话，白辞轻点头回应。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人近景。静态首帧：白辞左、黑棠右，黑棠向姐姐耳边微倾，行李拉杆在画面下缘。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠靠近白辞轻声说话，白辞轻点头回应。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S03-010",
+      "source_script_version": "v0.4",
+      "scene": 3,
+      "source_scene": 3,
+      "scene_title": "中韩阴间边境关口·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 208,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠抬眼追着崔赫离去方向，嘴角微撇。",
+      "dialogue": "黑棠（盯着背影）：啧……就是有点拽。",
+      "sound": "轻喜剧音乐点一下后转场。",
+      "action": "黑棠望向前方，略带不服地评价。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：日间阴间边境，冷白柔光、薄雾、石质关口，左右各一块无字牌匾；白辞和黑棠从画面左侧入关，崔赫站在右侧雾中；同一套行李箱。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠抬眼追着崔赫离去方向，嘴角微撇。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠望向前方，略带不服地评价。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-001",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 212,
+      "framing": "全景",
+      "camera": "缓慢跟拍",
+      "characters": [
+        "白辞",
+        "黑棠",
+        "崔赫"
+      ],
+      "costume_note": "白辞-A、黑棠-A、崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "现代行政大厅，崔赫走在前方，姐妹随后；保持四位主角各自固定服装，不增加额外具名角色。",
+      "dialogue": "",
+      "sound": "脚步声、低声行政空间底噪。",
+      "action": "三人沿大厅向办公室方向行走。",
+      "overlay": "大厅可保留模糊工作人员背景，不抢主体。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：全景。静态首帧：现代行政大厅，崔赫走在前方，姐妹随后；保持四位主角各自固定服装，不增加额外具名角色。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。三人沿大厅向办公室方向行走。 运镜：缓慢跟拍。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg",
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-002",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 216,
+      "framing": "中景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "办公室内严在玄在桌后，金丝眼镜和单侧金纹西装清楚，迎客姿态。",
+      "dialogue": "",
+      "sound": "椅子轻响，配乐转为温和。",
+      "action": "严在玄从桌后起身接待。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中景。静态首帧：办公室内严在玄在桌后，金丝眼镜和单侧金纹西装清楚，迎客姿态。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄从桌后起身接待。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-003",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 6,
+      "timeline_start_seconds": 220,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄朝门口方向看，神情得体。",
+      "dialogue": "严在玄：白辞小姐，黑棠小姐。欢迎来到韩国地府。",
+      "sound": "自然欢迎语。",
+      "action": "严在玄温和欢迎姐妹。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中近景。静态首帧：严在玄朝门口方向看，神情得体。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄温和欢迎姐妹。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-004",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 226,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞面向画面右侧严在玄，仪态沉静。",
+      "dialogue": "白辞：严大人，久仰。",
+      "sound": "礼貌回应。",
+      "action": "白辞微微颔首问候。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：中近景。静态首帧：白辞面向画面右侧严在玄，仪态沉静。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞微微颔首问候。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-005",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 8,
+      "timeline_start_seconds": 229,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄微笑，镜片不遮挡眼神，金纹位置与参考一致。",
+      "dialogue": "严在玄（笑）：不必这么客气。接下来三个月，还要请两位多多关照。",
+      "sound": "温和语气。",
+      "action": "严在玄保持微笑，平静说话。",
+      "overlay": "可分两段即梦片段；口型与长对白以剪辑配音为准。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中近景。静态首帧：严在玄微笑，镜片不遮挡眼神，金纹位置与参考一致。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄保持微笑，平静说话。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-006",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 237,
+      "framing": "双人近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "黑棠偷偷看过严在玄，向白辞靠近一点，白辞目光仍朝主人。",
+      "dialogue": "黑棠（小声对白辞）：姐，他看起来还挺好说话的。",
+      "sound": "压低音量的耳语。",
+      "action": "黑棠向白辞轻声说话。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人近景。静态首帧：黑棠偷偷看过严在玄，向白辞靠近一点，白辞目光仍朝主人。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠向白辞轻声说话。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-007",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 242,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄看向黑棠，微笑里带一点会意。",
+      "dialogue": "严在玄：谢谢夸奖。",
+      "sound": "配乐停一拍。",
+      "action": "严在玄微微一笑，回应黑棠。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：近景。静态首帧：严在玄看向黑棠，微笑里带一点会意。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄微微一笑，回应黑棠。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-008",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 245,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠表情僵住，目光停滞。",
+      "dialogue": "",
+      "sound": "留出喜剧反应拍。",
+      "action": "黑棠的笑意僵在脸上。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠表情僵住，目光停滞。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠的笑意僵在脸上。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-009",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 247,
+      "framing": "双人中近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "白辞忍笑，手在妹妹手臂旁；黑棠仍有些尴尬。",
+      "dialogue": "",
+      "sound": "轻微衣料声。",
+      "action": "白辞轻轻碰一下黑棠的手臂。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人中近景。静态首帧：白辞忍笑，手在妹妹手臂旁；黑棠仍有些尴尬。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞轻轻碰一下黑棠的手臂。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-010",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 250,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "桌面上两份工作证由严在玄递向姐妹方向，卡面无可读文字。",
+      "dialogue": "",
+      "sound": "卡片轻触桌面。",
+      "action": "严在玄将两份工作证向前递出。",
+      "overlay": "工作证姓名、职位后期叠加；原文未给出证号。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：手部特写。静态首帧：桌面上两份工作证由严在玄递向姐妹方向，卡面无可读文字。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄将两份工作证向前递出。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-011",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 9,
+      "timeline_start_seconds": 253,
+      "framing": "中近景",
+      "camera": "缓慢推进",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄朝白辞方向说明职责，姿态温和而正式。",
+      "dialogue": "严在玄：白辞小姐主要参与跨境事务与魂籍管理，跟我一起工作。",
+      "sound": "正式说明，保留自然呼吸。",
+      "action": "严在玄从容介绍白辞的工作安排。",
+      "overlay": "同一原文长句拆到相邻两镜，文字未删改。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中近景。静态首帧：严在玄朝白辞方向说明职责，姿态温和而正式。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄从容介绍白辞的工作安排。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-012",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 262,
+      "framing": "双人中景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠",
+        "崔赫"
+      ],
+      "costume_note": "黑棠-A、崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "黑棠在前景，下意识看向右后侧崔赫；崔赫神情冷淡。",
+      "dialogue": "严在玄（画外，承接上镜）：黑棠小姐则随崔赫参与外勤。",
+      "sound": "严在玄画外音，不重复上镜对白。",
+      "action": "黑棠听到安排后转头看崔赫。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：双人中景。静态首帧：黑棠在前景，下意识看向右后侧崔赫；崔赫神情冷淡。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠听到安排后转头看崔赫。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg",
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-013",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 267,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "黑棠"
+      ],
+      "costume_note": "黑棠-A",
+      "composition": "黑棠视线还在崔赫方向，嘴角不满。",
+      "dialogue": "",
+      "sound": "轻喜剧尾音。",
+      "action": "黑棠轻轻撇嘴。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/heitang_reference_v001.jpg\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：近景。静态首帧：黑棠视线还在崔赫方向，嘴角不满。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠轻轻撇嘴。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-014",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 10,
+      "timeline_start_seconds": 269,
+      "framing": "中近景",
+      "camera": "缓慢推进",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄微笑收敛，眼神认真，办公室色调略压低但不突然换光。",
+      "dialogue": "严在玄：其实，这次邀请二位前来，除了交流学习，还有一件事想请你们帮忙。",
+      "sound": "音乐渐转低缓悬疑。",
+      "action": "严在玄收起笑意，郑重说明。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中近景。静态首帧：严在玄微笑收敛，眼神认真，办公室色调略压低但不突然换光。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄收起笑意，郑重说明。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-015",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 279,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞认真看向严在玄。",
+      "dialogue": "白辞：严大人请讲。",
+      "sound": "干净对白。",
+      "action": "白辞抬眼示意继续。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞认真看向严在玄。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞抬眼示意继续。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-016",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 16,
+      "timeline_start_seconds": 282,
+      "framing": "中近景",
+      "camera": "缓慢推进",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄注视姐妹，语气严肃，桌面文件轮廓在画面下缘。",
+      "dialogue": "严在玄：上个月，中国地府向我们移交了十三名亡魂。档案收齐了，人却只到了十二个。失踪的那一位，至今下落不明。",
+      "sound": "低缓悬疑底音，台词清晰。",
+      "action": "严在玄克制地交代移交人数与失踪情况。",
+      "overlay": "长对白建议拆为2—3段图生视频或用文件/听者反应镜头承接；不压缩或加速台词。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：中近景。静态首帧：严在玄注视姐妹，语气严肃，桌面文件轮廓在画面下缘。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄克制地交代移交人数与失踪情况。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-017",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 298,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞眉头轻皱，神情由礼貌转为专业审视。",
+      "dialogue": "白辞（轻轻皱眉）：移交记录呢？",
+      "sound": "音乐下沉。",
+      "action": "白辞轻皱眉发问。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞眉头轻皱，神情由礼貌转为专业审视。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞轻皱眉发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-018",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 301,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄保持严肃，直视白辞。",
+      "dialogue": "严在玄：中韩两边都显示已完成。",
+      "sound": "清晰对白。",
+      "action": "严在玄说明记录状态。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：近景。静态首帧：严在玄保持严肃，直视白辞。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄说明记录状态。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-019",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 6,
+      "timeline_start_seconds": 305,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞目光坚定，疑问明确。",
+      "dialogue": "白辞：十三份档案都完成交接，却只有十二个亡魂？",
+      "sound": "短暂停顿后提问。",
+      "action": "白辞提出质疑，身体保持稳定。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞目光坚定，疑问明确。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞提出质疑，身体保持稳定。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-020",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 311,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄将目光转向崔赫方向。",
+      "dialogue": "",
+      "sound": "无新增台词。",
+      "action": "严在玄向崔赫微微示意。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：近景。静态首帧：严在玄将目光转向崔赫方向。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄向崔赫微微示意。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-021",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 313,
+      "framing": "手部特写",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫",
+        "白辞"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）、白辞-A；未确认造型不可直接批量生图。",
+      "composition": "崔赫西装袖口与白辞白色衣袖同框，一份无字文件位于交接位置。",
+      "dialogue": "",
+      "sound": "文件递交声。",
+      "action": "崔赫把文件递给白辞。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；references/originals/baici_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。；用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：手部特写。静态首帧：崔赫西装袖口与白辞白色衣袖同框，一份无字文件位于交接位置。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫把文件递给白辞。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；references/originals/baici_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png",
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-022",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 316,
+      "framing": "中近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞低头看文件，画面可见同一份薄文件，不改变服装配饰。",
+      "dialogue": "",
+      "sound": "快速翻页声。",
+      "action": "白辞翻过一页后停住。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：中近景。静态首帧：白辞低头看文件，画面可见同一份薄文件，不改变服装配饰。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞翻过一页后停住。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-023",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 320,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞"
+      ],
+      "costume_note": "白辞-A",
+      "composition": "白辞目光从文件上抬向崔赫，神情警觉。",
+      "dialogue": "白辞：最后一次确认身份，是在边境关口？",
+      "sound": "纸页声停止。",
+      "action": "白辞抬眼向崔赫确认。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。\n景别：近景。静态首帧：白辞目光从文件上抬向崔赫，神情警觉。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。白辞抬眼向崔赫确认。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-024",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 2,
+      "timeline_start_seconds": 325,
+      "framing": "近景",
+      "camera": "固定机位",
+      "characters": [
+        "崔赫"
+      ],
+      "costume_note": "崔赫-B（西装，待定妆）；未确认造型不可直接批量生图。",
+      "composition": "崔赫位于原站位，西装B套保持一致。",
+      "dialogue": "崔赫：对。",
+      "sound": "简短回应。",
+      "action": "崔赫轻点头确认。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。\n景别：近景。静态首帧：崔赫位于原站位，西装B套保持一致。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。崔赫轻点头确认。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/cuihe_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/cuihe_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-025",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 5,
+      "timeline_start_seconds": 327,
+      "framing": "双人中近景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠"
+      ],
+      "costume_note": "白辞-A、黑棠-A",
+      "composition": "黑棠已靠近白辞，二人视线落在同一页文件上。",
+      "dialogue": "黑棠：那人呢？总不能凭空消失吧？",
+      "sound": "黑棠语气困惑。",
+      "action": "黑棠凑近文件看，随后抬眼发问。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。\n景别：双人中近景。静态首帧：黑棠已靠近白辞，二人视线落在同一页文件上。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。黑棠凑近文件看，随后抬眼发问。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-026",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 3,
+      "timeline_start_seconds": 332,
+      "framing": "全景",
+      "camera": "固定机位",
+      "characters": [
+        "白辞",
+        "黑棠",
+        "崔赫",
+        "严在玄"
+      ],
+      "costume_note": "白辞-A、黑棠-A、崔赫-B（西装，待定妆）、严在玄-A；未确认造型不可直接批量生图。",
+      "composition": "四人保持办公室原站位，严在玄桌后，姐妹桌前，崔赫侧后，空间关系明确。",
+      "dialogue": "",
+      "sound": "短暂安静，保留轻微室内底噪。",
+      "action": "四人静默，只有自然呼吸。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；references/originals/yanzaixuan_reference_v001.png；待补：崔赫西装B套定妆图\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的白辞定妆图为身份依据；黑色长直发，原图五官比例；白色提花旗袍、浅色披肩、银色铃铛耳饰与胸前吊饰、白色高跟鞋；折扇为固定随身道具，非每镜都必须出现在手中，使用招魂铃时不增加额外手臂。招魂铃是独立法器，不把耳饰当法器。；用户上传的黑棠定妆图为身份依据；黑色长发、齐刘海、暗红挑染与侧边编发；黑色短西装、白衬衫、黑色蝴蝶结、百褶短裙、黑色过膝袜与厚底皮鞋；黑链和腰间黑色令牌固定；不照搬令牌文字。；崔赫面部严格使用原始崔赫人物图；本镜穿西装B套，不沿用皮衣造型。必须先附已确认的B套服装图；目前B套未定妆，以下仅为设计方向：素面深色现代合身西装、白衬衫，不戴帽，不加严在玄的金色花纹、眼镜或胸针。颜色、内搭与帽子处理需先确认后才能批量执行。；用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：全景。静态首帧：四人保持办公室原站位，严在玄桌后，姐妹桌前，崔赫侧后，空间关系明确。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。四人静默，只有自然呼吸。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/baici_reference_v001.png；references/originals/heitang_reference_v001.jpg；references/originals/cuihe_reference_v001.png；references/originals/yanzaixuan_reference_v001.png；待补：崔赫西装B套定妆图",
+      "reference_images": [
+        "references/originals/baici_reference_v001.png",
+        "references/originals/heitang_reference_v001.jpg",
+        "references/originals/cuihe_reference_v001.png",
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [
+        "崔赫西装B套定妆图"
+      ],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-027",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 4,
+      "timeline_start_seconds": 335,
+      "framing": "近景",
+      "camera": "缓慢推进",
+      "characters": [
+        "严在玄"
+      ],
+      "costume_note": "严在玄-A",
+      "composition": "严在玄郑重看向姐妹，眼神不躲闪。",
+      "dialogue": "严在玄：不知二位意下如何？",
+      "sound": "悬疑音乐缓起。",
+      "action": "严在玄郑重询问姐妹的意向。",
+      "overlay": "",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：references/originals/yanzaixuan_reference_v001.png\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：用户上传的严在玄定妆图为身份依据；黑色后梳短发、金丝方框眼镜；黑色三件套、单侧金色花纹与金色滚边、白衬衫、黑金领带、方形胸针、黑西裤、亮面皮鞋与腕表。\n景别：近景。静态首帧：严在玄郑重看向姐妹，眼神不躲闪。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。严在玄郑重询问姐妹的意向。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "references/originals/yanzaixuan_reference_v001.png",
+      "reference_images": [
+        "references/originals/yanzaixuan_reference_v001.png"
+      ],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04-028",
+      "source_script_version": "v0.4",
+      "scene": 4,
+      "source_scene": 4,
+      "scene_title": "韩国地府·行政大厅／办公室·日",
+      "duration_seconds": 7,
+      "timeline_start_seconds": 339,
+      "framing": "文件特写",
+      "camera": "缓慢推进",
+      "characters": [],
+      "costume_note": "",
+      "composition": "桌面上一页跨境移交记录，留出平整清晰纸面供后期叠字，周边不生成乱码；镜头逐渐靠近信息区域。",
+      "dialogue": "",
+      "sound": "低频悬疑音乐达到收尾点。",
+      "action": "镜头缓慢推进文件信息区，文件保持稳定。",
+      "overlay": "跨境亡魂移交记录\n移交档案：13份\n实际到达亡魂：12名\n中韩系统状态：全部移交完成\n失踪亡魂：李允熙，32岁，中韩混血。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求\n场景连续性：现代韩国地府行政空间，克制的深木色与灰石材、日间窗光；办公室严在玄在桌后画面右侧，姐妹在桌前画面左侧，崔赫在严在玄一侧；保持对话轴线。桌上为同一份文件和两份工作证，均无可读文字。\n人物与服装：此镜无人，不额外加入人物或手部。\n景别：文件特写。静态首帧：桌面上一页跨境移交记录，留出平整清晰纸面供后期叠字，周边不生成乱码；镜头逐渐靠近信息区域。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。镜头缓慢推进文件信息区，文件保持稳定。 运镜：缓慢推进。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求",
+      "reference_images": [],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04B-001",
+      "source_script_version": "v0.4",
+      "scene": 5,
+      "source_scene": 4,
+      "scene_title": "第四场尾声｜昏暗房间·时间未交代",
+      "duration_seconds": 6,
+      "timeline_start_seconds": 346,
+      "framing": "手部与档案特写",
+      "camera": "固定机位",
+      "characters": [],
+      "costume_note": "",
+      "composition": "昏暗房间桌面，一只没有身份特征的手放在即将合上的魂籍档案边缘；封面预留后期叠字位置。",
+      "dialogue": "",
+      "sound": "低声纸页摩擦，悬疑低音。",
+      "action": "同一只手缓缓合上魂籍档案，镜头始终不抬向人物面部。",
+      "overlay": "后期将“李允熙”叠到档案封面；不展示此人的脸、性别、衣服、首饰、纹身或其他身份线索。",
+      "image_prompt": "横屏16:9，单张完整电影分镜，写实韩剧摄影，自然皮肤与真实材质。以实际附带原始人物图固定身份与服饰，不重新设计脸，不带入人物表多视图排版。\n实际需附参考图：此镜无主角人物原图需求\n场景连续性：未透露地点的昏暗室内，只有一张局部桌面、一份魂籍档案和一只手；暗处不出现人脸、全身、镜中倒影、照片或可辨身份物件，不添加首饰、纹身或身份线索。\n人物与服装：无主角人物；只展示原文指定的一只手与档案，不增加身份线索。\n景别：手部与档案特写。静态首帧：昏暗房间桌面，一只没有身份特征的手放在即将合上的魂籍档案边缘；封面预留后期叠字位置。\n无字幕、对白气泡、镜号、水印、乱码、可读文字、拼图或多视图；不串脸，不增添人物、饰品、服装花纹或肢体。",
+      "jimeng_prompt": "以对应分镜图为首帧，保持人物身份、五官、发型、服装、配饰、场景布局及光线连续。同一只手缓缓合上魂籍档案，镜头始终不抬向人物面部。 运镜：固定机位。只执行本镜主要动作，不添加人物或新剧情，不变形手指和道具，不生成文字；对白、韩语配音、口型和混音后期处理。",
+      "reference_note": "此镜无主角人物原图需求",
+      "reference_images": [],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    },
+    {
+      "id": "EP01-V04-S04B-002",
+      "source_script_version": "v0.4",
+      "scene": 5,
+      "source_scene": 4,
+      "scene_title": "第四场尾声｜昏暗房间·时间未交代",
+      "duration_seconds": 1,
+      "timeline_start_seconds": 352,
+      "framing": "黑场",
+      "camera": "剪辑",
+      "characters": [],
+      "costume_note": "",
+      "composition": "纯黑收尾，不调用图片生成。",
+      "dialogue": "",
+      "sound": "音乐切断或留极短尾音。",
+      "action": "剪辑直接切黑。",
+      "overlay": "第一集完：仅作为剪辑标记，是否显示片尾文字另定。",
+      "image_prompt": "无需生图；剪辑黑场。",
+      "jimeng_prompt": "无需图生视频；剪辑切黑。",
+      "reference_note": "此镜无主角人物原图需求",
+      "reference_images": [],
+      "missing_references": [],
+      "status": "待审核",
+      "image_versions": [],
+      "selected_image": null
+    }
+  ]
+}

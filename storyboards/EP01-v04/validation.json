@@ -1,0 +1,17 @@
+{
+  "source_script_version": "v0.4",
+  "shots": 86,
+  "duration_seconds": 353,
+  "visual_group_counts": {
+    "1": 35,
+    "2": 11,
+    "3": 10,
+    "4": 28,
+    "5": 2
+  },
+  "source_dialogue_lines_checked_in_order": 49,
+  "missing_or_reordered_dialogue": 0,
+  "source_unchanged": true,
+  "new_storyboard_images_generated": 0,
+  "cuihe_costume_policy": "suit"
+}
