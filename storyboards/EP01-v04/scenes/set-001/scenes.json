@@ -1,0 +1,131 @@
+{
+  "source_script_version": "v0.4",
+  "asset_type": "无人场景底图与补充机位",
+  "image_count": 8,
+  "existing_images_reused": 4,
+  "new_images_generated": 4,
+  "status": "待用户审核",
+  "new_character_images_generated": 0,
+  "images": [
+    {
+      "scene_id": "EP01-V04-ENV-01",
+      "file": "01_seoul_street.png",
+      "title": "首尔雨后街头·全景",
+      "origin": "复用已核对的现有环境样图",
+      "source_scene_numbers": [
+        1
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "2caac12e60cff689da1a5b6e6103bea0cb7baac250ae20f2b9911c8a2840ac17",
+      "usage": "第一场开场、姐妹自我介绍、招魂铃与街角出场；全景建立空间。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-02",
+      "file": "02_sisters_home.png",
+      "title": "中国地府姐妹住处·全景",
+      "origin": "复用已核对的现有环境样图",
+      "source_scene_numbers": [
+        2
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "6e6f33e640a02063b222b8b276f14acb1aa3c5a903a05855a9a62c627e3bfa2a",
+      "usage": "第二场倒叙整理行李；白辞在左侧叠衣服，黑棠在右侧坐垫旁抱书和放糖。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-03",
+      "file": "03_border_gate.png",
+      "title": "中韩阴间边境·全景",
+      "origin": "复用已核对的现有环境样图",
+      "source_scene_numbers": [
+        3
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "1386a18044e4677b668d94022bdf54f0b45e8d2028d11aa04abca9ea37e64a3b",
+      "usage": "第三场通关与迎接；姐妹从左侧入画，崔赫在右侧迎接。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-04",
+      "file": "04_yan_office.png",
+      "title": "严在玄办公室·主机位",
+      "origin": "复用已核对的现有环境样图",
+      "source_scene_numbers": [
+        4
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "551e9bc9b5019d7ea43dc7bd1a2ea383946c3372af4781a41c80df3e05c553ab",
+      "usage": "第四场进入办公室及严在玄桌后主机位；人物站位按分镜安排。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-05",
+      "file": "05_administration_hall.png",
+      "title": "韩国地府行政大厅·入口机位",
+      "origin": "本次新生成",
+      "source_scene_numbers": [
+        4
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "ecc66c36ea5d6d61e3fe4cfe3494501291e6edfb820184f96137301f69f8b0fc",
+      "usage": "第四场崔赫带姐妹经过行政大厅，到办公室门口；与办公室延续材质和日光。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-06",
+      "file": "06_dark_archive_room.png",
+      "title": "尾声昏暗档案房间·桌面底图",
+      "origin": "本次新生成",
+      "source_scene_numbers": [
+        4
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "4316b99d1cbb72309b856469ce439595ba47191443f7836c6c807c1af6b4d4b3",
+      "usage": "第四场尾声匿名合档案前的无人底图；只加原文指定的手部动作，不补身份线索，姓名后期叠字。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-07",
+      "file": "07_street_bench_angle.png",
+      "title": "首尔街头长椅·收魂对话机位",
+      "origin": "本次新生成",
+      "source_scene_numbers": [
+        1
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "ffe09889e0b5a6fca0732d223bc3c4836cbb468252a3ab33358b67a2d8ceae41",
+      "usage": "第一场黑棠与大叔收魂对话的较近机位；用于长椅正反应镜头。",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "scene_id": "EP01-V04-ENV-08",
+      "file": "08_office_reverse_angle.png",
+      "title": "严在玄办公室·对话反打机位",
+      "origin": "本次新生成",
+      "source_scene_numbers": [
+        4
+      ],
+      "width": 1672,
+      "height": 941,
+      "sha256": "d5c8c8fa2347a794068f8a2fdeb14b31bca2e3479fa54ea0f3ff62da99f120a9",
+      "usage": "第四场从严在玄桌后看向姐妹的对话机位；人物近景可进一步按该环境图生成。",
+      "status": "待用户审核",
+      "approved": false
+    }
+  ]
+}
