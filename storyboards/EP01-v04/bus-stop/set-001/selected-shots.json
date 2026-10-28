@@ -1,0 +1,99 @@
+{
+  "set": "EP01-bus-stop-7-shots-001",
+  "source_script_version": "v0.4",
+  "location_reference": "用户上传 第一场.zip 内两张公交站参考图",
+  "character_references": "用户保存的白辞、黑棠、崔赫原始定妆图；大叔沿用公交站参考中的普通中年形象",
+  "image_count": 7,
+  "status": "本次七张已生成，待审核",
+  "screen_direction": "左右以画面左右为准",
+  "selected_images": [
+    {
+      "number": 1,
+      "file": "01_uncle_turns_right.png",
+      "title": "大叔听铃向右侧姐妹看去",
+      "note": "大叔仍坐着，视线朝画面右侧的姐妹。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2505136,
+      "sha256": "c94e9f6da1f0b34f642893278ebdf0d458d7cb06751c738ef8b0cc8f64230544",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 2,
+      "file": "02_heitang_over_shoulder_token.png",
+      "title": "黑棠左手悬浮令牌·侧45度大背影",
+      "note": "黑棠背影在前景、令牌悬于左掌上方，大叔坐在前方中景；令牌文字为可替换的虚构生平道具信息。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2170758,
+      "sha256": "91b5460bef48634b77904a612a1fcfaedaa312b89a335e47dcae86b2bbf0adb3",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 3,
+      "file": "03_sisters_back_exchange_v002.png",
+      "title": "姐妹背影侧脸对视·大叔居中低头看手机",
+      "note": "采用已去掉黑棠新增垂坠耳饰的修正版；姐妹近、大叔远，从肩背间隙看见大叔。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2149187,
+      "sha256": "1aeb215eab52387470023b480a7bc7303f0688182aea55a1aa6d95f991edeb48",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 4,
+      "file": "04_cuihe_emerges_left.png",
+      "title": "崔赫从公交站左侧转出",
+      "note": "崔赫使用第一场原始鸭舌帽和皮夹克A套，从公交亭左端绕出。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2446667,
+      "sha256": "8d738f2e7b1a4b327e3b4726616b20af0234d8e0afaea3a9022450e5386910b9",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 5,
+      "file": "05_cuihe_left_halfshot.png",
+      "title": "崔赫站在左侧·大叔抬头·半身镜头",
+      "note": "崔赫站姿较高、大叔坐姿较低；保留正常夜景灯光。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2261679,
+      "sha256": "e1ee28fcbee9ffd63b367c7a869445f9e04b12f5c77e87152c2f889e95c8912a",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 6,
+      "file": "06_four_people_cold_transition.png",
+      "title": "四人冷色阴间转场·无暖黄光",
+      "note": "崔赫在左、大叔坐中间看他、白辞黑棠在右；广告箱、窗光与路面反射均转为冷色。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2666478,
+      "sha256": "b24c70415fe2317864e810cca096c4ead9e7643879042faa7870a2b973fe1869",
+      "status": "待用户审核",
+      "approved": false
+    },
+    {
+      "number": 7,
+      "file": "07_blue_bus_korean_ad_v002.png",
+      "title": "蓝色公交从右侧驶入·韩文广告运动模糊",
+      "note": "在第六张基础上加入从右侧进入、向左行驶的蓝色公交；去掉了橙色侧标灯，广告字形保留可辨识核心与横向拖影。",
+      "width": 1672,
+      "height": 941,
+      "size_bytes": 2425015,
+      "sha256": "9076b56f05bba59a6cbab3bc078a3a384957b0ffbfe27b9fa6d2c0f9c121bcf4",
+      "status": "待用户审核",
+      "approved": false
+    }
+  ],
+  "excluded_earlier_variants": [
+    "03_sisters_back_exchange.png",
+    "07_blue_bus_korean_ad.png"
+  ]
+}
